@@ -1,0 +1,6 @@
+Created by Claudiu
+
+This is a mock tweet
+
+Created also by Claudiu
+This is the second mock tweet.
